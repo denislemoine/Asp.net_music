@@ -8,3 +8,16 @@ C:\Users\poupardinp\source\repos\MvcMovieForms\obj\Debug\MvcMovieForms.csproj.Ge
 C:\Users\poupardinp\source\repos\MvcMovieForms\obj\Debug\MvcMovieForms.csproj.CoreCompileInputs.cache
 C:\Users\poupardinp\source\repos\MvcMovieForms\obj\Debug\MvcMovieForms.exe
 C:\Users\poupardinp\source\repos\MvcMovieForms\obj\Debug\MvcMovieForms.pdb
+D:\Dev\Music\MvcMovieForms\bin\Debug\MvcMovieForms.exe.config
+D:\Dev\Music\MvcMovieForms\bin\Debug\MvcMovieForms.exe
+D:\Dev\Music\MvcMovieForms\bin\Debug\MvcMovieForms.pdb
+D:\Dev\Music\MvcMovieForms\obj\Debug\MvcMovieForms.csprojAssemblyReference.cache
+D:\Dev\Music\MvcMovieForms\obj\Debug\MvcMovieForms.Form1.resources
+D:\Dev\Music\MvcMovieForms\obj\Debug\MvcMovieForms.Properties.Resources.resources
+D:\Dev\Music\MvcMovieForms\obj\Debug\MvcMovieForms.csproj.GenerateResource.cache
+D:\Dev\Music\MvcMovieForms\obj\Debug\MvcMovieForms.csproj.CoreCompileInputs.cache
+D:\Dev\Music\MvcMovieForms\obj\Debug\MvcMovieForms.exe
+D:\Dev\Music\MvcMovieForms\obj\Debug\MvcMovieForms.pdb
+D:\Dev\Music\MvcMovieForms\bin\Debug\Newtonsoft.Json.dll
+D:\Dev\Music\MvcMovieForms\bin\Debug\Newtonsoft.Json.xml
+D:\Dev\Music\MvcMovieForms\obj\Debug\MvcMovieForms.csproj.CopyComplete
