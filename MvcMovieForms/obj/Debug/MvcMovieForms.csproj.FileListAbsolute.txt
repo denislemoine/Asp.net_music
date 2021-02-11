@@ -1,0 +1,10 @@
+C:\Users\poupardinp\source\repos\MvcMovieForms\bin\Debug\MvcMovieForms.exe.config
+C:\Users\poupardinp\source\repos\MvcMovieForms\bin\Debug\MvcMovieForms.exe
+C:\Users\poupardinp\source\repos\MvcMovieForms\bin\Debug\MvcMovieForms.pdb
+C:\Users\poupardinp\source\repos\MvcMovieForms\obj\Debug\MvcMovieForms.csprojAssemblyReference.cache
+C:\Users\poupardinp\source\repos\MvcMovieForms\obj\Debug\MvcMovieForms.Form1.resources
+C:\Users\poupardinp\source\repos\MvcMovieForms\obj\Debug\MvcMovieForms.Properties.Resources.resources
+C:\Users\poupardinp\source\repos\MvcMovieForms\obj\Debug\MvcMovieForms.csproj.GenerateResource.cache
+C:\Users\poupardinp\source\repos\MvcMovieForms\obj\Debug\MvcMovieForms.csproj.CoreCompileInputs.cache
+C:\Users\poupardinp\source\repos\MvcMovieForms\obj\Debug\MvcMovieForms.exe
+C:\Users\poupardinp\source\repos\MvcMovieForms\obj\Debug\MvcMovieForms.pdb
