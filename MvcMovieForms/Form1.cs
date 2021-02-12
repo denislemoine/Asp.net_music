@@ -6,8 +6,6 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
 
-
-
 namespace MvcMovieForms
 {
     public partial class Form1 : Form
@@ -23,13 +21,13 @@ namespace MvcMovieForms
             var uri = "https://localhost:44333/api/APIMovies";
             var webRequest = (HttpWebRequest)WebRequest.Create(uri);
             var webResponse = (HttpWebResponse)webRequest.GetResponse();
-            if ((webResponse.StatusCode == HttpStatusCode.OK) && (webResponse.ContentLength > 0))
+            if ((webResponse.StatusCode == HttpStatusCode.OK) )
             {
                 var reader = new StreamReader(webResponse.GetResponseStream());
                 string s = reader.ReadToEnd();
-                var arr = JsonConvert.DeserializeObject<JArray>(s);
-                dataGridView1.DataSource = arr;
-                MessageBox.Show(s);
+                var arr = JsonConvert.DeserializeObject<Datalist>(s);
+                dataGridView1.DataSource = arr.StoriesMovies;
+
             }
             else
             {
