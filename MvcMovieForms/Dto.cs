@@ -15,4 +15,9 @@ namespace MvcMovieForms
         public string Genre { get; set; }
         public string Rating { get; set; }
     }
+    class Datalist
+    {
+        public List<Dto> StoriesMovies { get; set; }
+    }
 }
+
